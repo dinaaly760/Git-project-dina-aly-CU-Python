@@ -1,0 +1,13 @@
+Tell me how to remove them locally and remotely
+the answer:
+1- delete tag localy:
+
+                      git tag -d tag_name
+
+2- delet tag remotelly
+
+                 git push origin -d tag_name 
+3- how to list tags 
+                 
+
+		 git tag 
